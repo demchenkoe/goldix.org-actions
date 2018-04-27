@@ -1,0 +1,30 @@
+{
+  "name": "@goldix.org/actions",
+  "version": "0.0.1",
+  "description": "Case Controller/Action",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/demchenkoe/goldix.org-actions.git"
+  },
+  "keywords": [
+    "goldix.org",
+    "controller",
+    "action"
+  ],
+  "author": "Eugene Demchenko <demchenkoev@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/demchenkoe/goldix.org-actions/issues"
+  },
+  "homepage": "https://github.com/demchenkoe/goldix.org-actions#readme",
+  "dependencies": {
+    "@goldix.org/types": "0.0.1"
+  }
+}
