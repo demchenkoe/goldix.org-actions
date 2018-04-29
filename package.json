@@ -1,6 +1,6 @@
 {
   "name": "@goldix.org/actions",
-  "version": "0.0.1",
+  "version": "0.0.4",
   "description": "Case Controller/Action",
   "main": "index.js",
   "directories": {
@@ -25,6 +25,6 @@
   },
   "homepage": "https://github.com/demchenkoe/goldix.org-actions#readme",
   "dependencies": {
-    "@goldix.org/types": "0.0.1"
+    "@goldix.org/types": "0.0.3"
   }
 }

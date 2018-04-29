@@ -1,6 +1,6 @@
-const {Action} = require('./lib/Action');
-const {Controller} = require('./lib/Controller');
-const {Validator, CompositeType, Type} = require('@goldix.org/types');
+const {Action, ActionError} = require('./lib/Action');
+const {Controller} = require('./lib/Contoller');
+const {Validator, ValidationErrors, CompositeType, Type} = require('@goldix.org/types');
 
 
-module.exports = {Action, Controller, Validator, CompositeType, Type };
+module.exports = {Action, ActionError, Controller, Validator, ValidationErrors, CompositeType, Type };
