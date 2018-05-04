@@ -1,6 +1,6 @@
 {
   "name": "@goldix.org/actions",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Case Controller/Action",
   "main": "index.js",
   "directories": {
